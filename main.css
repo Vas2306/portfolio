@@ -51,7 +51,7 @@ section {
       rgba(47, 48, 58, 0.4),
       rgba(47, 48, 58, 0.4)
     ),
-    url(./images/bgd-min.jpg);
+    url(images/bgd-min.jpg);
   background-size: cover;
   background-position: center bottom;
   background-color: var(--color-text);
